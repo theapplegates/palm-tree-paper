@@ -47,20 +47,10 @@ export default defineConfig({
       ],
     },
   },
-vite: {
+  vite: {
     plugins: [tailwindcss()],
-    resolve: {
-      // This tells Vite to completely ignore 'fs' if a frontend package tries to load it
-      alias: {
-        fs: 'empty-module',
-      },
-    },
-    build: {
-      rollupOptions: {
-        external: ['fs'],
-      },
-    },
-  },  fonts: [
+  },
+  fonts: [
     {
       name: "Wotfard",
       cssVariable: "--font-wotfard",
