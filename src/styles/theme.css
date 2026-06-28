@@ -9,11 +9,9 @@
   --color-border: var(--border);
   --font-app: var(--font-wotfard);
 }
-
-/* Light theme values */
 :root,
 [data-theme="light"] {
-  --background: #fdfdfd;
+  --background: #ffffff;  /* Changed from #fdfdfd to full white */
   --foreground: #282728;
   --accent: #006cac;
   --accent-foreground: #ffffff;

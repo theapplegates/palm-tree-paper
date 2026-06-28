@@ -34,10 +34,10 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://your-site.com/",
+    url: "https://paper.paulapplegate.com/",
     title: "AstroPaper",
     description: "…",
-    author: "Your Name",
+    author: "Paul Applegate",
     lang: "en",
     timezone: "UTC",
     googleVerification: "your-verification-value",
