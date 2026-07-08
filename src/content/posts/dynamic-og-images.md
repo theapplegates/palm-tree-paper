@@ -11,7 +11,7 @@ tags:
   - release
 description: New feature in AstroPaper v1.4.0, introducing dynamic OG image generation for blog posts.
 ---
-<cloudinary-picture
+<Picture
   src="assets/images/69514585-8ADF-427F-B412-9BEE97D44D98"
   alt="TODO: describe this image"
   width="1086"
