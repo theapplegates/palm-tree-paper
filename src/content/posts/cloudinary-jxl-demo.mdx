@@ -9,8 +9,6 @@ tags:
   - cloudinary
 description: End-to-end check that Cloudinary serves JXL/AVIF/WebP and Astro/Sharp never touches the post image.
 ---
-import Picture from "@/components/Picture.astro";
-import breakpoints from "@/data/cloudinary-breakpoints.json";
 
 This image is delivered entirely by Cloudinary. The `<picture>` element below offers JXL, AVIF, and WebP sources, with a WebP `<img>` as the floor. No JPEG fallback. Sharp is not invoked.
 
