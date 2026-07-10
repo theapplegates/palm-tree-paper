@@ -42,6 +42,8 @@ jxl files can be handled by both Chrome and Firefox by setting a flag , for Fire
 
 You should never see `f_jpg` — there is no JPEG source.
 
+import Picture from "../../../components/Picture.astro";
+
 
 <Picture
   src="assets/images/ChatGImageApr26"
@@ -61,4 +63,15 @@ You should never see `f_jpg` — there is no JPEG source.
   sizes="(min-width: 768px) 720px, 100vw"
   breakpoints={breakpoints["assets/images/clay-banks-awsOkT5bksE-unsplash"]}
   pictureClass="responsive-picture"
+/>
+
+
+<Picture
+  src="assets/images/me-wife-comic"
+  alt="Me and the wife"
+  width="1024"
+  height="1536"
+  devices="1200|40|original,992|60|16:9,768|70|4:3,0|100|1:1"
+  breakpoints="50, 147, 212, 259, 361, 407, 475, 511, 587, 609, 643, 856, 896, 936, 976, 990, 1000"
+  picture-class="responsive-picture"
 />
