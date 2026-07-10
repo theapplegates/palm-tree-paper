@@ -63,13 +63,13 @@ vite: {
         fs: 'empty-module',
       },
     },
-    build: {
-      cssMinify: true,
-      minify: 'esbuild',
-      rollupOptions: {
-        external: ['fs'],
-      },
-    },
+ build: {
+   cssMinify: true,
+   minify: 'esbuild',
+   rollupOptions: {
+     external: ['fs'],
+   },
+ },
   },  fonts: [
     {
       name: "Wotfard",
