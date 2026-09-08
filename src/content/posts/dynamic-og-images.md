@@ -22,6 +22,43 @@ description: New feature in AstroPaper v1.4.0, introducing dynamic OG image gene
 />
 
 
+<picture>
+  <source
+  type="image/jxl"
+  srcset="
+  https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jxl/c_scale,w_200/v1788898362/breakpoints/z6mevwlrv6sngecgnu4h.jxl 200w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jxl/c_scale,w_536/v1788898362/breakpoints/z6mevwlrv6sngecgnu4h.jxl 536w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jxl/c_scale,w_792/v1788898362/breakpoints/z6mevwlrv6sngecgnu4h.jxl 792w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jxl/c_scale,w_1022/v1788898362/breakpoints/z6mevwlrv6sngecgnu4h.jxl 1022w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jxl/c_scale,w_1086/v1788898362/breakpoints/z6mevwlrv6sngecgnu4h.jxl 1086w"
+  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 1086px"
+  />
+  <source
+  type="image/avif"
+  srcset="
+  https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_avif/c_scale,w_200/v1788898362/breakpoints/z6mevwlrv6sngecgnu4h.avif 200w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_avif/c_scale,w_536/v1788898362/breakpoints/z6mevwlrv6sngecgnu4h.avif 536w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_avif/c_scale,w_792/v1788898362/breakpoints/z6mevwlrv6sngecgnu4h.avif 792w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_avif/c_scale,w_1022/v1788898362/breakpoints/z6mevwlrv6sngecgnu4h.avif 1022w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_avif/c_scale,w_1086/v1788898362/breakpoints/z6mevwlrv6sngecgnu4h.avif 1086w"
+  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 1086px"
+  />
+  <img
+  src="https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_webp/c_scale,w_800/v1788898362/breakpoints/z6mevwlrv6sngecgnu4h.webp"
+  srcset="
+  https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_webp/c_scale,w_200/v1788898362/breakpoints/z6mevwlrv6sngecgnu4h.webp 200w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_webp/c_scale,w_536/v1788898362/breakpoints/z6mevwlrv6sngecgnu4h.webp 536w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_webp/c_scale,w_792/v1788898362/breakpoints/z6mevwlrv6sngecgnu4h.webp 792w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_webp/c_scale,w_1022/v1788898362/breakpoints/z6mevwlrv6sngecgnu4h.webp 1022w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_webp/c_scale,w_1086/v1788898362/breakpoints/z6mevwlrv6sngecgnu4h.webp 1086w"
+  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 1086px"
+  alt=""
+  loading="lazy"
+  width="1086"
+  height="1086"
+  />
+</picture>
+
 New feature in AstroPaper v1.4.0, introducing dynamic OG image generation for blog posts.
 
 ![Dynamic OG image generation in AstroPaper blog posts](/posts/dynamic-og-image-generation-in-astropaper-blog-posts/index.png)
