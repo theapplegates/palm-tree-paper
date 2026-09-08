@@ -79,7 +79,7 @@ vite: {
       fallbacks: ["sans-serif"],
       weights: [100, 200, 300, 400, 500, 600, 700],
       styles: ["normal", "italic"],
-      formats: ["woff2", "ttf"],
+      formats: ["woff2"],
       options: {
         variants: [
           {
