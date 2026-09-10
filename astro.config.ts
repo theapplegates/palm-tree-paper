@@ -71,7 +71,9 @@ vite: {
      external: ['fs'],
    },
  },
-  },  fonts: [
+  },
+  fonts: [
+    ...astrotypeFonts,
     {
       name: "Wotfard",
       cssVariable: "--font-wotfard",

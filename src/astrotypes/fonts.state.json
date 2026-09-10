@@ -1,8 +1,24 @@
 [
   {
+    "name": "cormorant-garamond",
+    "familyName": "Cormorant Garamond",
+    "cssVariable": "--font-cormorant-garamond",
+    "provider": "google",
+    "options": null,
+    "googleCdn": "google"
+  },
+  {
     "name": "dm-sans",
     "familyName": "DM Sans",
     "cssVariable": "--font-dm-sans",
+    "provider": "google",
+    "options": null,
+    "googleCdn": "google"
+  },
+  {
+    "name": "inter",
+    "familyName": "Inter",
+    "cssVariable": "--font-inter",
     "provider": "google",
     "options": null,
     "googleCdn": "google"
