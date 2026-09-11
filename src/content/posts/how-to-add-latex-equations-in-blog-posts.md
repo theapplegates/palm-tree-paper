@@ -154,3 +154,41 @@ LaTeX provides a wide range of mathematical symbols:
 - Operators: `$\sum$`, `$\prod$`, `$\int$`, `$\partial$`, `$\nabla$`
 - Relations: `$\leq$`, `$\geq$`, `$\approx$`, `$\sim$`, `$\propto$`
 - Logical symbols: `$\forall$`, `$\exists$`, `$\neg$`, `$\wedge$`, `$\vee$`
+
+
+<picture>
+  <source
+    type="image/jxl"
+    srcset="
+    https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jxl/c_scale,w_596/v1789088108/breakpoints/iwcax75icpxbaabzt31p.jxl 596w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jxl/c_scale,w_755/v1789088108/breakpoints/iwcax75icpxbaabzt31p.jxl 755w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jxl/c_scale,w_920/v1789088108/breakpoints/iwcax75icpxbaabzt31p.jxl 920w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jxl/c_scale,w_1062/v1789088108/breakpoints/iwcax75icpxbaabzt31p.jxl 1062w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_jxl/c_scale,w_1086/v1789088108/breakpoints/iwcax75icpxbaabzt31p.jxl 1086w"
+    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 1086px"
+  />
+  <source
+    type="image/avif"
+    srcset="
+    https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_avif/c_scale,w_596/v1789088108/breakpoints/iwcax75icpxbaabzt31p.avif 596w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_avif/c_scale,w_755/v1789088108/breakpoints/iwcax75icpxbaabzt31p.avif 755w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_avif/c_scale,w_920/v1789088108/breakpoints/iwcax75icpxbaabzt31p.avif 920w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_avif/c_scale,w_1062/v1789088108/breakpoints/iwcax75icpxbaabzt31p.avif 1062w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_avif/c_scale,w_1086/v1789088108/breakpoints/iwcax75icpxbaabzt31p.avif 1086w"
+    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 1086px"
+  />
+  <img
+    src="https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_webp/c_scale,w_800/v1789088108/breakpoints/iwcax75icpxbaabzt31p.webp"
+    srcset="
+    https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_webp/c_scale,w_596/v1789088108/breakpoints/iwcax75icpxbaabzt31p.webp 596w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_webp/c_scale,w_755/v1789088108/breakpoints/iwcax75icpxbaabzt31p.webp 755w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_webp/c_scale,w_920/v1789088108/breakpoints/iwcax75icpxbaabzt31p.webp 920w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_webp/c_scale,w_1062/v1789088108/breakpoints/iwcax75icpxbaabzt31p.webp 1062w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto,f_webp/c_scale,w_1086/v1789088108/breakpoints/iwcax75icpxbaabzt31p.webp 1086w"
+    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 1086px"
+    alt=""
+    loading="lazy"
+    width="1086"
+    height="610"
+  />
+</picture>
